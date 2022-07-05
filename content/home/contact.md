@@ -5,6 +5,7 @@ headless: true
 weight: 130
 title: Contact
 subtitle: null
+active: true
 content:
   form:
     provider: netlify
@@ -40,7 +41,7 @@ content:
     longitude: "-122.1697"
   email: test@example.org
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: photo.jpg
 ---
