@@ -1,7 +1,7 @@
 ---
 title: "Hao (Charles) Chen "
 role: Master of Materials Science
-avatar_filename: photo.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
