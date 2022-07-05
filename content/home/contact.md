@@ -39,7 +39,7 @@ content:
   coordinates:
     latitude: "37.4275"
     longitude: "-122.1697"
-  email: test@example.org
+  email: Charles.Chen.M.E@outlook.com
 design:
   columns: "1"
   background:
