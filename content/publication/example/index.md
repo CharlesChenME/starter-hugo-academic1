@@ -25,7 +25,7 @@ publication_short: "*Zeitschrift für Naturforschung B*"
 url_source: ""
 url_video: ""
 title: First low-spin carbodiimide, Fe2(NCN)3, predicted from first-principles
-  investigations.
+  investigations
 doi: ""
 featured: true
 tags: []
