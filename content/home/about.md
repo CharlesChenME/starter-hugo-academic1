@@ -7,4 +7,3 @@ title: About me
 active: true
 author: admin
 ---
-My name is Hao Chen.
