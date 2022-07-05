@@ -12,8 +12,8 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - admin
-  - Robert Ford
+  - Chen H
+  - Xiang H. P
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -23,7 +23,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: "*Zeitschrift für Naturforschung B* 76(10-12): 783-788 (2021)."
 url_source: ""
 url_video: ""
 title: First low-spin carbodiimide, Fe2(NCN)3, predicted from first-principles
@@ -37,9 +37,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
