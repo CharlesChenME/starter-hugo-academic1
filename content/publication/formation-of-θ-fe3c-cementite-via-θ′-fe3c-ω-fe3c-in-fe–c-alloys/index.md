@@ -7,7 +7,7 @@ authors:
   - Chen H
   - Xiang H. P
 doi: 10.1021/acs.cgd.0c01533
-publication_short: '"Crystal Growth & Design"'
+publication_short: "*Crystal Growth & Design*"
 draft: false
 featured: false
 image:
