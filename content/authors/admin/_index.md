@@ -2,11 +2,11 @@
 title: "Hao (Charles) Chen "
 role: Master of Materials Science
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include phase tarnsition, multi-scale modeling and
+  machine learning.
 interests:
-  - Phase Transitions in Materials
-  - Materials Simulation in Real Thermodynamic Conditions
+  - Phase Transitions
+  - Multi-scale Modeling
   - Machine Learning
 social:
   - icon: envelope
