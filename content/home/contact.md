@@ -43,5 +43,5 @@ content:
 design:
   columns: "1"
   background:
-    image: photo.jpg
+    image: ""
 ---
