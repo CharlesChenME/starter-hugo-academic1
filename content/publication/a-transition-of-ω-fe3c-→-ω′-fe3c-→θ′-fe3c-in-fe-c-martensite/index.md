@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Ping D. H
   - Xiang H. P
-  - Chen H
+  - <b>Chen H</b>
 doi: 10.1038/s41598-020-63012-9
 publication: "*Scientific Reports*"
 publication_short: "*Scientific Reports*"
