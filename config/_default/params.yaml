@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} haochen-charles.netlify.app All Rights Reserved'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: ''
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: master
   avatar:
