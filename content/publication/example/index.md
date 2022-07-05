@@ -14,16 +14,14 @@ publication_types:
 authors:
   - Chen H
   - Xiang H. P
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: "*Zeitschrift für Naturforschung B* 76(10-12): 783-788 (2021)."
+publication_short: "*Zeitschrift für Naturforschung B*"
 url_source: ""
 url_video: ""
 title: First low-spin carbodiimide, Fe2(NCN)3, predicted from first-principles
@@ -37,7 +35,8 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00.000Z
+  filename: null
+date: 2021-09-05T18:50:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
