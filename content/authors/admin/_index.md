@@ -5,8 +5,8 @@ avatar_filename: photo.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Material Science
-  - Phase Transition
+  - Phase Transitions in Materials
+  - Materials Simulation in Real Thermodynamic Conditions
   - Machine Learning
 social:
   - icon: envelope
@@ -29,15 +29,12 @@ organizations:
     url: https://en.tongji.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Materials Science and Engineering
+      institution: Tongji University
+      year: 2021
+    - course: BEng in Materials Science and Engnieering
+      institution: Hebei University of Science & Technology
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
