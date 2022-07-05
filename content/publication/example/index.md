@@ -1,12 +1,11 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: The structural stability and physical properties of the Fe(III)
+  carbodiimide Fe2(NCN)3 were studied by use of density functional theory. The
+  results indicate that Fe2(NCN)3 (space group R3C ) is stable both
+  thermodynamically and mechanically. The electronic structure in combination
+  with the phonon dispersion relations suggest that the title compound should be
+  ferromagnetic and half-metallic, and that the Fe3+ ions are in the low-spin
+  state.
 slides: example
 url_pdf: ""
 publication_types:
@@ -15,7 +14,7 @@ authors:
   - Chen H
   - Xiang H. P
 author_notes: []
-publication: In *Wowchemy Conference*
+publication: "*Zeitschrift für Naturforschung B*"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -26,7 +25,7 @@ url_source: ""
 url_video: ""
 title: First low-spin carbodiimide, Fe2(NCN)3, predicted from first-principles
   investigations
-doi: ""
+doi: 10.1515/znb-2021-0128
 featured: true
 tags: []
 projects:
