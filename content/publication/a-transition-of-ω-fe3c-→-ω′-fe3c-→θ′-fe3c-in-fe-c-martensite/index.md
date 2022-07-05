@@ -4,8 +4,7 @@ publication_types:
   - "2"
 authors:
   - Ping D. H
-  - Xiang
-  - H. P
+  - Xiang H. P
   - Chen H
 doi: 10.1038/s41598-020-63012-9
 publication: "*Scientific Reports*"
