@@ -20,10 +20,10 @@ organizations:
     url: https://en.tongji.edu.cn/
 education:
   courses:
-    - course: M.Eng in Materials Science
+    - course: M.Sc in Materials Science
       institution: Tongji University
       year: 2021
-    - course: B.Eng in Materials Science
+    - course: B.Sc in Materials Science
       institution: Hebei University of Science & Technology
       year: 2017
 email: ""
