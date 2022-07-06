@@ -10,15 +10,11 @@ content:
   
   phone: +186 199 4625 1445
   address:
-    street: 4800 Caoan Road
     city: Shanghai
     region: China
     postcode: "201800"
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
+    country: China
+    country_code: CHN
   email: Charles.Chen.M.E@outlook.com
 design:
   columns: "1"
