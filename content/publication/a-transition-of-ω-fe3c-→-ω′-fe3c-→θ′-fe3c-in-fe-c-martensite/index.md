@@ -1,5 +1,5 @@
 ---
-title: A transition of ω-Fe3C → ω′-Fe3C →θ′-Fe3C in Fe-C martensite
+title: A transition of ω-Fe3C → ω′-Fe3C →θ′-Fe<sup>3</sup>C in Fe-C martensite
 publication_types:
   - "2"
 authors: 
