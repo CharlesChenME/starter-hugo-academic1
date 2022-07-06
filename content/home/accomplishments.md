@@ -28,21 +28,21 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Supervised Machine Learning: Regression and Classification
     url: ''
   - date_end: ''
     date_start: '2021-01-25'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Advanced Learning Algorithms
     url: ''
   - date_end: ''
     date_start: '2021-01-25'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Programming for Everybody (Getting Started with Python)
     url: ''
 
 
