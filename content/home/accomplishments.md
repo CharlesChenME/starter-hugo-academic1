@@ -31,21 +31,19 @@ item:
     title: Supervised Machine Learning: Regression and Classification
     url: ''
   - date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-01-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Advanced Learning Algorithms
     url: ''
-  - date_end: ''
-    date_start: '2021-01-25'
+  - date_end: '2020-12-21'
+    date_start: '2020-07-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Programming for Everybody (Getting Started with Python)
+    title: 'Programming for Everybody (Getting Started with Python)'
     url: ''
-
 
 design:
   columns: '2'
----
