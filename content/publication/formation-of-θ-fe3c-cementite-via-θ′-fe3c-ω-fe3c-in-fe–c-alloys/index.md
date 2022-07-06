@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Ping D. H
-  - Chen H
+  - **Chen H**
   - Xiang H. P
 doi: 10.1021/acs.cgd.0c01533
 publication: "*Crystal Growth & Design*"
