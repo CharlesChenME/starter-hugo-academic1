@@ -8,23 +8,14 @@ subtitle: null
 active: true
 content:
   
-  phone: +186 19946251445
+  phone: +186 199 4625 1445
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: "94305"
+    street: 4800 Caoan Road
+    city: Shanghai
+    region: China
+    postcode: "201800"
     country: United States
     country_code: US
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/Twitter
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: https://zoom.com
   coordinates:
     latitude: "37.4275"
     longitude: "-122.1697"
