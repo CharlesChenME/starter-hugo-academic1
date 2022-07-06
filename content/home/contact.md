@@ -7,12 +7,6 @@ title: Contact
 subtitle: null
 active: true
 content:
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
   autolink: true
   office_hours:
     - Monday 10:00 to 13:00
