@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/
+    link: https://twitter.com/HaoChenCharles
 organizations:
   - name: Tongji Unviersity
     url: https://en.tongji.edu.cn/
