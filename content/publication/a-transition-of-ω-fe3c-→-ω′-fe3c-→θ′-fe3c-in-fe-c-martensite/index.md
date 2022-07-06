@@ -3,9 +3,9 @@ title: A transition of ω-Fe3C → ω′-Fe3C →θ′-Fe3C in Fe-C martensite
 publication_types:
   - "2"
 authors: 
-  -Ping D. H 
-  -Xiang H. P
-  -Chen H
+  - Ping D. H 
+  - Xiang H. P
+  - Chen H
 doi: 10.1038/s41598-020-63012-9
 publication: "*Scientific Reports*"
 publication_short: "*Scientific Reports*"
