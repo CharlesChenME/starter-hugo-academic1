@@ -44,11 +44,7 @@ header:
 footer:
   copyright:
     notice: '© {year} haochen-charles.netlify.app All Rights Reserved'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+
 
 # Localization
 
