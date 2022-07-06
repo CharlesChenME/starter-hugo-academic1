@@ -32,8 +32,8 @@ highlight_name: true
 ---
 I am a graduate student in computational materials science, working at the interface between physics and computer science at Tongji University in Shanghai, China.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I obtained my B.Sc and experimental skills (XRD, TEM, SEM, etc.) at the department of materials science and engineering at Hebei University of Science & Technology. Later I studied for M.Sc at Tongji University where I worked on a multidisciplinary project on steel. During my research with DFT, I found its limitation in atomic- and time scale due to the complexity of solving the Schrödinger equation. Further exploring brought me to machine learning as an innovative solution to these problems.
 
-Currently I’m looking for Ph.D. positions associate with the application of machine learning to materials science in Europe. I would like to develop my academic career in this field.
+Currently, I’m looking for Ph.D. positions associated with the application of machine learning to materials science in Europe. I would like to develop my academic career in this field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-HaoChen.pdf" "newtab" >}}CV{{< /staticref >}}.
