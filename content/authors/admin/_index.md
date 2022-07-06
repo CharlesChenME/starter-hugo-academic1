@@ -1,6 +1,6 @@
 ---
 title: "Hao (Charles) Chen "
-role: Master of Engineering
+role: Master of Science
 avatar_filename: avatar.jpg
 bio: My research interests include Materials Science, Material Simulation and
   Machine Learning.
