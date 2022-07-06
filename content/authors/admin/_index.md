@@ -34,4 +34,6 @@ I am a graduate student in computational materials science, working at the inter
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
+Currently I’m looking for Ph.D. positions associate with the application of machine learning to materials science in Europe. I would like to develop my academic career in this field.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-HaoChen.pdf" "newtab" >}}CV{{< /staticref >}}.
