@@ -15,7 +15,7 @@ abstract: The structural stability and physical properties of the Fe(III)
   (space group R3c) is stable both thermodynamically and mechanically. The
   electronic structure in combination with the phonon dispersion relations
   suggest that the title compound should be ferromagnetic and half-metallic, and
-  that the Fep<sup>3+</sup> ions are in the low-spin state.
+  that the Fe<sup>3+</sup> ions are in the low-spin state.
 draft: false
 featured: false
 image:
