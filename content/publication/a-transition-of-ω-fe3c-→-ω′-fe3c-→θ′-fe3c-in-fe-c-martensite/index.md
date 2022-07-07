@@ -12,7 +12,7 @@ publication_short: "*Scientific Reports*"
 draft: false
 featured: false
 image:
-  filename: a-transition-of-ω-fe3c-→-ω′-fe3c-→θ′-fe3c-in-fe-c-martensite.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2020-03-18T19:04:18.681Z
