@@ -18,7 +18,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: first-low-spin-carbodiimide-fe2-ncn-3-predicted-from-first-principles-investigations.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-07-05T20:36:01.237Z
