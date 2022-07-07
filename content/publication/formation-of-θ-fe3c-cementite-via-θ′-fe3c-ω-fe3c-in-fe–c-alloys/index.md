@@ -12,8 +12,8 @@ publication_short: "*Crystal Growth & Design*"
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2021-04-02T18:53:00.000Z
+date: 2021-02-16T18:53:00.000Z
 ---
